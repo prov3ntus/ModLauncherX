@@ -24,7 +24,7 @@ A fully fleshed out enhancement of the original Mod Launcher for Black Ops III M
 - DeadWireChicken
 
 ### Alpha Testers
-- [DEVRAW](https://discord.gg/vZSHkDkQ3k) Supporters - supporters of the RAW always get early access to all of my tools (as well as Logical's)
+- [DEVRAW](https://discord.gg/vZSHkDkQ3k) Supporters (special shoutout to TNT) - supporters of the RAW always get early access to all of my tools (as well as Logical's)
 - SwiftyThree (my pookie bear)
 - Logical (my other pookie bear)
 - VerK0 (my other other pookie bear)
