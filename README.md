@@ -28,12 +28,16 @@ A fully fleshed out enhancement of the original Mod Launcher for Black Ops III M
 - SwiftyThree (my pookie bear)
 - Logical (my other pookie bear)
 - VerK0 (my other other pookie bear)
-- SaintVertigo (my other other ot-- you get the idea)
+- MidgetBlaster (my other other ot-- you get the idea)
 
 ### Icons
 - [Icons8](https://icons8.com) (goated website)
 
 ###
+
+## Copyright Notice
+This application uses Qt 6 (qtbase modules only), which is owned by The Qt Company Ltd., with the Lesser GPL v3. Copies of all licenses can be found on this GitHub page and in the
+distribution of the software inside `.\bin\ModLauncherX\Licenses\*`.
 
 ## AI Disclaimer:
 All code was carefully crafted and typed by me. I only use AI for debugging help and general questions, in which it has saved me lots of development time.
