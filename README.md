@@ -40,6 +40,6 @@ This application uses Qt 6 (qtbase modules only), which is owned by The Qt Compa
 distribution of the software inside `.\bin\ModLauncherX\Licenses\*`.
 
 ## AI Disclaimer:
-All code was carefully crafted and typed by me. I only use AI for debugging help and general questions, in which it has saved me lots of development time.
+I use AI here and there for debugging help, general questions and for writing boilerplate code, which has saved months of dev time.
 
 \- v3ntus
