@@ -21,7 +21,8 @@ A fully fleshed out enhancement of the original Mod Launcher for Black Ops III M
 ### Suggestions / Feedback
 - VerK0 - Some sick ideas / design suggestions
 - Shidouri
-- DeadWireChicken
+- Voltz
+- TxmEXE222
 
 ### Alpha Testers
 - [DEVRAW](https://discord.gg/vZSHkDkQ3k) Supporters (special shoutout to TNT) - supporters of the RAW always get early access to all of my tools (as well as Logical's)
