@@ -10,9 +10,8 @@ A fully fleshed out upgrade of the original Mod Launcher for Black Ops III Mod T
 
 ## Features
 
-- I will document them all here @ some point, cuz there are loads of sweet changes
-- You can also 
-
+- I will document them all here @ some point, cuz there are loads of sweet changes and I want y'all to be able to make the most of this launcher
+- You can also go to `Help > MLX Features` for a full list of changes and improvements I made
 
 ## Credits
 
